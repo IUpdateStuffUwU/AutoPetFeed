@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.MD": "6603d65a18108a618a3dfcedab34889cef043a7fea77db394f65cd7a5eda44cf",
+        "index.js": "ce9ca5e5cf7f208104b8811fc0465e6abbe45edcb5b45fc8dea924bd386760d9",
+        "module.json": "d74c6d37a05291e0e5b12aa37988c219128a9f1495bcce6929075a4fd61dd49a"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_USE_ITEM": 3,
+        "S_CHANGE_SERVANT_ENERGY": 1,
+        "S_INVEN": 18,
+        "S_LOGIN": 14,
+        "S_SPAWN_SERVANT": 2
+    }
+}
