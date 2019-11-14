@@ -1,9 +1,9 @@
 # auto-pet-feeder
 Keep your pets happy.
 
-Made by teralove
+Froked from teralove
 
-Updated by TerableCoder
+Updated by IUpdateStuffUwU
 
 ## Info
 - You must have Pet Treats or Pet Food in your inventory.
